@@ -1,0 +1,12 @@
+.notificationContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 32px;
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
